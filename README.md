@@ -1,5 +1,7 @@
 # Cozy Sport · Portfolio Editorial
 
+**Ver el sitio online:** [https://juancjose.github.io/cozy-portfolio-editorial/](https://juancjose.github.io/cozy-portfolio-editorial/)
+
 Cuarta versión del portfolio de Cozy Sport (https://cozysport.com/portfolio/), en clave editorial / catálogo de marca: fondo papel, tipografía Instrument Serif + Hanken Grotesk y un único acento azul cobalto.
 
 Sitio estático (HTML/CSS/JS, sin build) publicado con GitHub Pages: https://juancjose.github.io/cozy-portfolio-editorial/
