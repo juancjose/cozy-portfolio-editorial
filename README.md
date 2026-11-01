@@ -1,4 +1,15 @@
-# Cozy Sport · Portfolio Editorial
+<!-- jnce-header -->
+# Cozy Sport · Portfolio
+
+> Cozy Sport · Portfolio — Editorial (catálogo de marca)
+
+**🌐 Sitio online:** [juancjose.github.io/cozy-portfolio-editorial](https://juancjose.github.io/cozy-portfolio-editorial/)  
+**🛠️ Tecnologías:** HTML · CSS · JavaScript  
+**👤 Diseño y desarrollo:** [Juan José Cáceres](https://juancjose.github.io/jnce-studio/)
+
+![Vista previa de Cozy Sport · Portfolio](docs/preview.jpg)
+
+---
 
 **Ver el sitio online:** [https://juancjose.github.io/cozy-portfolio-editorial/](https://juancjose.github.io/cozy-portfolio-editorial/)
 
